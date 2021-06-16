@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-![](https://komarev.com/ghpvc/?username=LogicFlame-Dev&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=LogicFlame-Dev&label=PROFILE+VIEWS&color=orange)
 
 
 - 🔭 I’m currently working on ...
