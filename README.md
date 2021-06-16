@@ -21,5 +21,5 @@
 - Him/ He
 
 ⚡ Fun fact:
-- I have been coding LogicFlame plugin for years and properly able to understand how the API works.
+- I have been coding LogicFlame plugin for years until I was able to properly understand how the API works, and I have found this out for 6 months.
 
