@@ -23,3 +23,5 @@
 ⚡ Fun fact:
 - I have been coding LogicFlame plugin for years until I was able to properly understand how the API works, and I have found this out for 6 months.
 
+
+![LogicFlame-Dev Stats](https://github-readme-stats.vercel.app/api?username=LogicFlame-Dev&show_icons=true&theme=dark)
